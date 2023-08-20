@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.21)
+project(Altu-Bitu-ChoSubeen)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Altu-Bitu-ChoSuneen
+        01 sort_map_set/1431.cpp
+
+        )
