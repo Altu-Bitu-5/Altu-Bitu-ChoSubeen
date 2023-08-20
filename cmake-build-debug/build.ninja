@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: Project
+# Project: Altu-Bitu-ChoSubeen
 # Configurations: Debug
 # =============================================================================
 
@@ -40,6 +40,39 @@ include CMakeFiles/rules.ninja
 # Logical path to working directory; prefix for absolute paths.
 
 cmake_ninja_workdir = D$:/GitHub/Altu-Bitu-ChoSubeen/cmake-build-debug/
+# =============================================================================
+# Object build statements for EXECUTABLE target Altu-Bitu-ChoSubeen
+
+
+#############################################
+# Order-only phony target for Altu-Bitu-ChoSubeen
+
+build cmake_object_order_depends_target_Altu-Bitu-ChoSubeen: phony || CMakeFiles/Altu-Bitu-ChoSubeen.dir
+
+build CMakeFiles/Altu-Bitu-ChoSubeen.dir/01_sort_map_set/1431.cpp.obj: CXX_COMPILER__Altu-Bitu-ChoSubeen_Debug D$:/GitHub/Altu-Bitu-ChoSubeen/01_sort_map_set/1431.cpp || cmake_object_order_depends_target_Altu-Bitu-ChoSubeen
+  DEP_FILE = CMakeFiles\Altu-Bitu-ChoSubeen.dir\01_sort_map_set\1431.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  OBJECT_DIR = CMakeFiles\Altu-Bitu-ChoSubeen.dir
+  OBJECT_FILE_DIR = CMakeFiles\Altu-Bitu-ChoSubeen.dir\01_sort_map_set
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Altu-Bitu-ChoSubeen
+
+
+#############################################
+# Link the executable Altu-Bitu-ChoSubeen.exe
+
+build Altu-Bitu-ChoSubeen.exe: CXX_EXECUTABLE_LINKER__Altu-Bitu-ChoSubeen_Debug CMakeFiles/Altu-Bitu-ChoSubeen.dir/01_sort_map_set/1431.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Altu-Bitu-ChoSubeen.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Altu-Bitu-ChoSubeen.exe
+  TARGET_IMPLIB = libAltu-Bitu-ChoSubeen.dll.a
+  TARGET_PDB = Altu-Bitu-ChoSubeen.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -66,6 +99,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build Altu-Bitu-ChoSubeen: phony Altu-Bitu-ChoSubeen.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -74,12 +109,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: D:/GitHub/Altu-Bitu-ChoSubeen/cmake-build-debug
 
-build all: phony
-
-# =============================================================================
-# Unknown Build Time Dependencies.
-# Tell Ninja that they may appear as side effects of build rules
-# otherwise ordered by order-only dependencies.
+build all: phony Altu-Bitu-ChoSubeen.exe
 
 # =============================================================================
 # Built-in targets

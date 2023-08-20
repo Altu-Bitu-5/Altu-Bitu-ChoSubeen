@@ -1,2 +1,3 @@
+D:/GitHub/Altu-Bitu-ChoSubeen/cmake-build-debug/CMakeFiles/Altu-Bitu-ChoSubeen.dir
 D:/GitHub/Altu-Bitu-ChoSubeen/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/GitHub/Altu-Bitu-ChoSubeen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
