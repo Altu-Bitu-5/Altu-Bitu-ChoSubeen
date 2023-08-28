@@ -4,7 +4,8 @@ project(Altu-Bitu-ChoSubeen)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Altu-Bitu-ChoSubeen
-        02_stack_queue_deque/10757.cpp
+        02_stack_queue_deque/1158.cpp
+        #02_stack_queue_deque/10757.cpp
         #01_sort_map_set/19636.cpp
         #01_sort_map_set/14425.cpp
         #01_sort_map_set/1431.cpp
