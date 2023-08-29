@@ -21,12 +21,14 @@ string checkPair(stack<char> &s, string str) {
         else if (str[i] == ')') {
             if(s.empty()) return "no";
             else if(s.top() == '(') s.pop();
+            else return "no";
         }
         else if(str[i] == ']'){
             if(s.empty()) return "no";
             else if(s.top()=='[') {
                 s.pop();
             }
+            else return "no";
         }
         else continue;
        // cout << s.top();
