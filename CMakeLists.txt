@@ -4,7 +4,8 @@ project(Altu-Bitu-ChoSubeen)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Altu-Bitu-ChoSubeen
-        02_stack_queue_deque/17298.cpp
+        03_number_theory/1735.cpp
+        #02_stack_queue_deque/17298.cpp
         #02_stack_queue_deque/4949.cpp
         #02_stack_queue_deque/1158.cpp
         #02_stack_queue_deque/10757.cpp
