@@ -49,11 +49,11 @@ cmake_ninja_workdir = D$:/GitHub/Altu-Bitu-ChoSubeen/cmake-build-debug/
 
 build cmake_object_order_depends_target_Altu-Bitu-ChoSubeen: phony || CMakeFiles/Altu-Bitu-ChoSubeen.dir
 
-build CMakeFiles/Altu-Bitu-ChoSubeen.dir/04_brute_force/1436.cpp.obj: CXX_COMPILER__Altu-Bitu-ChoSubeen_Debug D$:/GitHub/Altu-Bitu-ChoSubeen/04_brute_force/1436.cpp || cmake_object_order_depends_target_Altu-Bitu-ChoSubeen
-  DEP_FILE = CMakeFiles\Altu-Bitu-ChoSubeen.dir\04_brute_force\1436.cpp.obj.d
+build CMakeFiles/Altu-Bitu-ChoSubeen.dir/05_priority_queue/2607.cpp.obj: CXX_COMPILER__Altu-Bitu-ChoSubeen_Debug D$:/GitHub/Altu-Bitu-ChoSubeen/05_priority_queue/2607.cpp || cmake_object_order_depends_target_Altu-Bitu-ChoSubeen
+  DEP_FILE = CMakeFiles\Altu-Bitu-ChoSubeen.dir\05_priority_queue\2607.cpp.obj.d
   FLAGS = -g -std=gnu++17
   OBJECT_DIR = CMakeFiles\Altu-Bitu-ChoSubeen.dir
-  OBJECT_FILE_DIR = CMakeFiles\Altu-Bitu-ChoSubeen.dir\04_brute_force
+  OBJECT_FILE_DIR = CMakeFiles\Altu-Bitu-ChoSubeen.dir\05_priority_queue
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/Altu-Bitu-ChoSubeen.dir/04_brute_force/1436.cpp.obj: CXX_COMPIL
 #############################################
 # Link the executable Altu-Bitu-ChoSubeen.exe
 
-build Altu-Bitu-ChoSubeen.exe: CXX_EXECUTABLE_LINKER__Altu-Bitu-ChoSubeen_Debug CMakeFiles/Altu-Bitu-ChoSubeen.dir/04_brute_force/1436.cpp.obj
+build Altu-Bitu-ChoSubeen.exe: CXX_EXECUTABLE_LINKER__Altu-Bitu-ChoSubeen_Debug CMakeFiles/Altu-Bitu-ChoSubeen.dir/05_priority_queue/2607.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Altu-Bitu-ChoSubeen.dir

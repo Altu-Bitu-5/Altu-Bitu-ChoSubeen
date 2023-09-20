@@ -1,6 +1,6 @@
 # ninja log v5
-642	978	7162353920000000	Altu-Bitu-ChoSubeen.exe	dc8a9f550bc3a920
-12	623	7163609240000000	build.ninja	ff9461842d647cf
+803	1169	7168377140000000	Altu-Bitu-ChoSubeen.exe	1d69de3a33e8b37c
+18	964	7168883200000000	build.ninja	ff9461842d647cf
 7	995	7155262720000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/03_number_theory/1735.cpp.obj	340ffe4face151aa
 18	1924	7149071120000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/02_stack_queue_deque/1158.cpp.obj	de49ec69b2dde4ad
 9	1499	7156857060000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/03_number_theory/2840.cpp.obj	da98a56b366d453a
@@ -8,3 +8,15 @@
 12	1222	7150785440000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/02_stack_queue_deque/17298.cpp.obj	6b6ffaa675419f85
 6	648	7162329060000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/04_brute_force/1063.cpp.obj	ce5c0f4f9a66295b
 8	641	7162353920000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/04_brute_force/1436.cpp.obj	278af32ddc10b7a3
+5	736	7168165720000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/05_priority_queue/2075.cpp.obj	7710ed3cea2835e2
+5	803	7168377140000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/05_priority_queue/2607.cpp.obj	f3ce93ac1ea3756a
+9	1160	7168887780000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/05_priority_queue/2607.cpp.obj	f3ce93ac1ea3756a
+1162	1745	7168887800000000	Altu-Bitu-ChoSubeen.exe	1d69de3a33e8b37c
+11	1105	7168892620000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/05_priority_queue/2607.cpp.obj	f3ce93ac1ea3756a
+1106	1608	7168892620000000	Altu-Bitu-ChoSubeen.exe	1d69de3a33e8b37c
+9	1033	7168898700000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/05_priority_queue/2607.cpp.obj	f3ce93ac1ea3756a
+1033	1420	7168898700000000	Altu-Bitu-ChoSubeen.exe	1d69de3a33e8b37c
+9	960	7168900080000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/05_priority_queue/2607.cpp.obj	f3ce93ac1ea3756a
+961	1456	7168900100000000	Altu-Bitu-ChoSubeen.exe	1d69de3a33e8b37c
+7	1137	7168900780000000	CMakeFiles/Altu-Bitu-ChoSubeen.dir/05_priority_queue/2607.cpp.obj	f3ce93ac1ea3756a
+1138	1747	7168900780000000	Altu-Bitu-ChoSubeen.exe	1d69de3a33e8b37c

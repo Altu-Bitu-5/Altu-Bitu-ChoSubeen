@@ -4,7 +4,9 @@ project(Altu-Bitu-ChoSubeen)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Altu-Bitu-ChoSubeen
-        04_brute_force/1436.cpp
+        05_priority_queue/2607.cpp
+        #05_priority_queue/2075.cpp
+        #04_brute_force/1436.cpp
         #04_brute_force/1063.cpp
         #03_number_theory/2840.cpp
         #03_number_theory/1735.cpp
